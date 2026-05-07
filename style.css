@@ -1,0 +1,25 @@
+/* Element Selector  */
+div {
+    background-color: red;
+}
+
+.box1{
+    background-color: blue;
+}
+
+.box{
+    background-color: aqua;
+}
+
+#green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
+
+
+/*======= inline CSS = 1000 ============*/
+/*======= ID Selector = 100 ============*/
+/*======= Class Selector = 10 ==========*/
